@@ -13,3 +13,5 @@ Identify patterns that indicate if a person is unlikely to repay the loan or lab
 This dataset has 466,285 rows dan 75 columns
 
 ## Results:
+![image](https://user-images.githubusercontent.com/117376321/210181090-e7c8f53c-b380-40e9-8462-732344514448.png)
+![image](https://user-images.githubusercontent.com/117376321/210180964-1d8bc43e-0d6e-4581-9085-12c5300eba30.png)
